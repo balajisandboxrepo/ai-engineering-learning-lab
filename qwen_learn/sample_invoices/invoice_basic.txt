@@ -1,0 +1,14 @@
+NORTHSTAR OFFICE SUPPLIES
+INVOICE
+Invoice number: NS-1048
+Invoice date: 2026-10-12
+Due date: 2026-11-11
+Currency: USD
+
+Description                 Amount
+Ergonomic desk chair        1,250.00
+Delivery charge               250.00
+
+Subtotal:                   1,500.00
+Sales tax:                    120.00
+Total due:                  1,620.00

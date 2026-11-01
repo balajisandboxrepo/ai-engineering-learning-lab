@@ -1,0 +1,14 @@
+Brightline Cloud Services
+TAX INVOICE
+Invoice #: BCS-77831
+Issued: 1 November 2026
+Payment due: 15 November 2026
+Currency: USD
+
+Item                         Qty    Unit price    Line total
+Cloud compute - October       10       60.00         600.00
+Managed storage               3       60.00         180.00
+
+Subtotal: 780.00
+Tax (8%): 62.40
+Amount payable: 842.40

@@ -1,0 +1,2 @@
+scikit-llm==1.4.3
+python-dotenv>=1.0,<2
