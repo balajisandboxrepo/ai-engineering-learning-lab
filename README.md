@@ -50,6 +50,15 @@ Scikit-LLM requires an OpenAI SDK version that conflicts with the root LangChain
 
 The Qwen examples use an isolated environment and a configurable OpenAI-compatible Qwen endpoint; they do not use `OPENAI_API_KEY`. Follow [`qwen_learn/README.md`](qwen_learn/README.md) to start the endpoint and run the two sample invoice extraction examples.
 
+## AI model scanning with Garak
+
+[`package_aimodelscan/README.md`](package_aimodelscan/README.md) demonstrates installing Garak in an isolated environment, scanning a public Hugging Face model with a focused probe, interpreting the results, and storing the native report.
+
+## QAAgent package
+
+[`package_qaagent/README.md`](package_qaagent/README.md) contains the uv-managed
+`QAAgent` Python library scaffold, including setup, test, and build commands.
+
 ## Run offline unit tests
 
 The Qwen package tests use mocked responses and do not call a model provider:
